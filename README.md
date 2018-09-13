@@ -4,7 +4,7 @@
 
 ## Agenda for the day
 
-Suggestions from Simon Hood
+This has yet to be agreed. Suggestions from Simon Hood:
 
 1. What could go wrong --- I think Charlotte/Paul mentioned a high-profile
     example last time they were here?  (Yale?)
@@ -30,6 +30,15 @@ Suggestions from Simon Hood
  5. A Data Save Haven in AWS
      -- e.g., for pseudo-anonymised data
      -- e.g., for patient-identifiable data
+     
+ 6. Accessing/Mirroring on-site storage from/in AWS:
+    -- simply accessing
+    -- async mirroring
+    -- sync mirroring
+   for
+    -- DR
+    -- acessing users' data in AWS-based compute/VMs
+
 
 Mike Pacey added
 
