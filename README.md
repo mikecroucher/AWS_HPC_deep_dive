@@ -49,6 +49,9 @@ For apps, I've asked the PIs of Lancaster's largest Polaris projects; I currentl
 
 ## Attendees 
 
+Add your name here.
+
+* Martin Callaghan (University of Leeds)
 * Mike Croucher (University of Leeds)
 * Simon Hood (University of Manchester)
 
