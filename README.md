@@ -4,7 +4,17 @@
 
 ## Agenda for the day
 
-This has yet to be agreed. Suggestions from Simon Hood:
+This has yet to be agreed. 
+
+Suggestions from Paul Grist
+
+1.	Workloads – creating a taxonomy of what jobs Manchester/Leeds has today, what could/would work in the cloud
+
+2.	Current and Target architectures – Simon whiteboarded Manchester’s current platforms, would be great to complete that picture with Leeds, and outline future reference architectures 
+
+3.	Roadmap for workload migration – what could migrate, when, and how, w/focus on Multi-account strategies to support research community, and related costing/charging
+
+Suggestions from Simon Hood:
 
 1. What could go wrong --- I think Charlotte/Paul mentioned a high-profile
     example last time they were here?  (Yale?)
